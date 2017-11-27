@@ -1,0 +1,1 @@
+include ':specs', ':app', ':base', ':instantapp'
